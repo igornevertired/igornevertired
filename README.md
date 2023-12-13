@@ -7,5 +7,4 @@ Hi there 👋, I’m @igornevertired
 
 🌐 Socials:
 
-- Leetcode: https://leetcode.com/igorgorelkov0/
 - Telegram: https://t.me/igornevertired

@@ -8,3 +8,4 @@ Hi there 👋, I’m @igornevertired
 🌐 Socials:
 
 - Telegram: https://t.me/igornevertired
+- Bento: https://bento.me/igornevertired

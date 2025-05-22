@@ -11,7 +11,7 @@
 </div>
 
 
-🌱 Python/Rust Dev | Web3 Specialist | Entrepreneur
+🌱 I specialize in Python development, focusing on backend programming and data processing. Additionally, I build projects in Web3, leveraging blockchain technology and decentralized applications.
 
 
 

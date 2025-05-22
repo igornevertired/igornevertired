@@ -23,7 +23,7 @@
 
 | Langs | Tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=py,rust,cpp,ts"/> | <img src="https://skillicons.dev/icons?i=bash,gitlab,aws,docker,fastapi,postgres,selenium,"/> |
+| <img src="https://skillicons.dev/icons?i=py,rust,cpp,ts"/> | <img src="https://skillicons.dev/icons?i=bash,gitlab,aws,docker,fastapi,postgres,selenium"/> |
 
 </div>
 

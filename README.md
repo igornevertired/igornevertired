@@ -1,6 +1,3 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igornevertired&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 

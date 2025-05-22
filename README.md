@@ -6,8 +6,8 @@
 <a href="https://github.com/igornevertired">
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/igornevertired?label=Follow&style=social)](https://github.com/igornevertired)
+[![GitHub Stars](https://img.shields.io/github/stars/igornevertired?style=social)](https://github.com/igornevertired)
 </div>
 
 

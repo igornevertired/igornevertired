@@ -21,9 +21,9 @@
 
 <div align="Center">
 
-| Website | Programming |
+| Langs | Tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,PyCharm,RustRover,github"/> |
+| <img src="https://skillicons.dev/icons?i=py,rust,cpp,ts"/> | <img src="https://skillicons.dev/icons?i=bash,gitlab,aws,docker,fastapi,postgres,selenium,"/> |
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| igornevertired's Stats | Ultimate Streak |
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=igornevertired&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=igornevertired&theme=onedark&hide_border=true) 
 
@@ -67,7 +67,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="igornevertired@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/igornevertired"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence]([https://discord.com/users/729473858179956859](https://t.me/nevertiredweb3))"> <img src="https://skillicons.dev/icons?i=telegram"/> </a> |
+| <a href="igornevertired@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/igornevertired"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎   |
 
 </div>
 
